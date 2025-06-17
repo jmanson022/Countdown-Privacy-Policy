@@ -3,6 +3,7 @@
 This repository contains the privacy policy for the [Your App Name] mobile application, available on iOS and Android. The policy is accessible via GitHub Pages and complies with Apple App Store and Google Play requirements.
 
 🔗 [View Privacy Policy](https://jmanson022.github.io/Countdown-Privacy-Policy/)
+
 🔗 [View Support Page](https://jmanson022.github.io/Countdown-Privacy-Policy/support.html)
 
 ## About
