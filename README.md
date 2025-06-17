@@ -6,4 +6,4 @@ This repository contains the privacy policy for the [Your App Name] mobile appli
 
 ## About
 - This app does not collect or share personal user data without consent.
-- For any questions or concerns, contact us at jmanson@icloud.com.
+- For any questions or concerns, contact us at jmbaseball23@icloud.com.
